@@ -12,7 +12,7 @@ You Can download any video/image in all social medias very easy and High Speed.
 
 > cd All-Downloader
 
-> python requirements.py
+
 
 > python alldown.py
 
