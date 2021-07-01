@@ -24,7 +24,7 @@ You Can download any video/image in all social medias very easy and High Speed.
 
 <hr colour="Red">
 
-<img src="All-Downloader.png" size ="14">
+<img src="All-Downloader.jpg" size ="14">
 
 <br>
 
