@@ -1,5 +1,5 @@
 # All-Downloader
-You Can download any video/image in all social medias very easy and High Speed.
+You Can download any video/image in all social medias very easy and High Speed. also you can easily download videos from web browsers such as google chrome,firefox,etc..
 
 ###          Tool By Razor Kenway (SL Android) Sri Lanka 🇱🇰 
 ## Command list👇
