@@ -17,17 +17,6 @@ You Can download any video/image in all social medias very easy and High Speed.
 > python alldown.py
 
 
-
-### Video Lesson here : 
- 
-
-
-<hr colour="Red">
-
-<img src="All-Downloader.jpg" size ="14">
-
-<br>
-
 ## Supported Websites :
   * Face Book
   * Instagram
@@ -36,6 +25,13 @@ You Can download any video/image in all social medias very easy and High Speed.
   * Pinterest
   * Any Porn Site( Pornhub,Brazzesrs,etc..)
   * Any Video ( but you must have the link to the video )
+ 
+<hr colour="Red">
+
+<img src="All-Downloader.jpg" size ="14">
+
+<br>
+
 
 <a href="https://www.facebook.com/groups/277920623081269/?ref=share">Facebook Group </a>
 
