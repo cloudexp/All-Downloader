@@ -28,7 +28,14 @@ You Can download any video/image in all social medias very easy and High Speed.
 
 <br>
 
-
+## Supported Websites :
+  * Face Book
+  * Instagram
+  * Twitter
+  * Youtube
+  * Pinterest
+  * Any Porn Site( Pornhub,Brazzesrs,etc..)
+  * Any Video ( but you must have the link to the video )
 
 <a href="https://www.facebook.com/groups/277920623081269/?ref=share">Facebook Group </a>
 
